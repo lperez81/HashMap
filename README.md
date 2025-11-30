@@ -123,6 +123,5 @@ It was built as part of **CS 251 – Data Structures** at the University of Illi
 ## How to Build and Run
 
 ```bash
-# Example (adjust filenames as needed)
-g++ -std=c++17 -Wall -Wextra -O2 -o hashmap_test main.cpp HashMap.cpp
+# main.cpp HashMap.cpp
 ./hashmap_test
